@@ -7,7 +7,7 @@ public class Main {
         employ[3] = new Employee("Бегунов Максим Анатольевич", 3, 40500f);
         employ[4] = new Employee("Серебрякова Екатерина Андреевна", 4, 45820f);
 
-        float totalSalary = 0;
+        float totalSalary =  0;
         float minSalary = 999999999;
         float maxSalary = 0;
         int i = 0; //счетчик ненулевых значений массива сотрудников
