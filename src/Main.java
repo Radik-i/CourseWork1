@@ -1,5 +1,5 @@
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args){
 
         Employee[] employees = new Employee[10];
         employees[0] = new Employee("Петушкова Марина Сергеевна", 1, 35700f);
