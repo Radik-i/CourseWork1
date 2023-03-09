@@ -15,7 +15,7 @@ public class Main {
         fullName(employees);
     }
     public static void allData(Employee[] employees) {
-        for (int e = 0; e < employees.length; e++) {
+        for (int e = 0; e < employees.length; e++)  {
             if (employees[e] != null) {   // проверка на null-евые значения массива сотрудников
                 System.out.println(employees[e]); // выведение всех данных по всем сотрудникам
             } else e++;
