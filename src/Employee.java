@@ -3,7 +3,7 @@ public class Employee {
     private int department;
     private float salary;
     private static int counter;
-    private int id;
+    private int  id;
 
     public String getFullName() {
         return fullName;
